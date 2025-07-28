@@ -50,7 +50,9 @@ Uses Python’s ThreadPoolExecutor to perform multiple vulnerability checks on d
 - **Authentication Support**:
   
 Supports HTTP Basic Authentication and form-based login flows to authenticate before scanning protected content areas.
-Signal Handling for Graceful Exit:
+
+- **Signal Handling for Graceful Exit**:
+  
 Handles user interrupt signals (e.g., Ctrl+C) gracefully to ensure clean shutdown and avoid corrupted scan states.
 
 
