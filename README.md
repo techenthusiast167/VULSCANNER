@@ -175,9 +175,9 @@ kindly save the tool script via the link https://gist.github.com/techenthusiast1
       python vulscanner.py https://example.com --auth-type basic --username admin --password secret
 
 
-  - Form-based login:
+- Form-based login:
  
-        python vulscanner.py https://example.com --auth-type form --username admin --password secret --login-url https://example.com/login
+      python vulscanner.py https://example.com --auth-type form --username admin --password secret --login-url https://example.com/login
 
 
 - Customize report names:
