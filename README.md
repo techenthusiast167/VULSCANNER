@@ -125,7 +125,13 @@ Generates easily consumable and printable vulnerability reports with CVE linkage
 
 **Save The Tool**:
 
-kindly save the tool script via the link…
+kindly save the tool script via the link https://gist.github.com/techenthusiast167/26c4a7edb0b0b9833f255d3a77acdc4a
+
+**Example**:
+
+- nano vulscanner.py
+- Copy and paste in the script
+- Press **ctrl + o, Enter, and ctrl + x** to exit
 
 
 
